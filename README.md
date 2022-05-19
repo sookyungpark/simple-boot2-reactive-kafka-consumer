@@ -1,2 +1,8 @@
-# simple-boot2-reactive-kafka-consumer
-simple boot2 reactive kafka consumer project
+# coffeeshop
+coffeeshop consumer project
+
+## Usage
+### Run Consumer
+```
+./gradlew coffeeshop-consumer:clean coffeeshop-consumer:bootRun
+```
